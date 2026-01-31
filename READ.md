@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AeroGuard: Hyper-Local Air Quality & Health Risk Forecaster
 
 ## 🏆 Hackathon Solution - PS02
@@ -223,3 +224,6 @@ MIT License
 ---
 
 **Built for [Hackathon Name] - Problem Statement PS02**
+=======
+# Hack-AI-Thon_Template
+>>>>>>> 90c3cc908069d205783ad5242e5d9423209736ef
