@@ -1,0 +1,11 @@
+sensor_id,latitude,longitude,location_type,area_name
+SENSOR_001,19.049816,72.990143,Traffic Junction,Vikhroli_East
+SENSOR_002,19.211876,72.91937,Industrial,Andheri_East
+SENSOR_003,18.962398,72.811617,Commercial,Lower_Parel
+SENSOR_004,19.140446,72.941615,Coastal,Versova_Beach
+SENSOR_005,18.922565,72.9444,Coastal,Worli_Sea_Face
+SENSOR_006,18.984936,72.836365,Commercial,Dadar_West
+SENSOR_007,19.146993,72.922331,Commercial,Jogeshwari_East
+SENSOR_008,19.072778,72.858246,Traffic Junction,Bandra_East
+SENSOR_009,19.059944,72.809333,Green Park,Juhu_Garden
+SENSOR_010,19.046545,72.891214,Coastal,Mahim_Bay
