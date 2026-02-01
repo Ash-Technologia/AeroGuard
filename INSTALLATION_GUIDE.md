@@ -5,7 +5,7 @@
 Your complete AeroGuard hackathon solution with:
 
 ### Core Application Files
-- ✅ `app.py` - Main Streamlit web application (16,659 bytes)
+- ✅ `home.py` - Main Streamlit web application (16,659 bytes)
 - ✅ 10 Python modules totaling 3,500+ lines of code
 - ✅ 4 comprehensive documentation files
 - ✅ Automated setup script

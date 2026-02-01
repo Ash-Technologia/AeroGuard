@@ -340,6 +340,12 @@ def main():
         st.divider()
         st.markdown("### ℹ️ About")
         st.caption("AeroGuard uses LSTM & Prophet models to forecast hyperlocal AQI levels.")
+        st.markdown("Team - Quantum Minds")
+        st.markdown("Members")
+        st.markdown("Leader- Aayush Singhavi")
+        st.markdown("Ashutosh Shirke")
+        st.markdown("Harshal Wankhade")
+        st.markdown("Piyush Poptani")
         st.caption("Built for Hackathon PS02 🏆")
         st.caption("Aligned with WHO/EPA Standards")
     
